@@ -1,0 +1,10 @@
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/mapreduce/UserProfileMapper.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/mapreduce/ProductAnalysisMapper.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/JDataAnalysisDriver.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/mapreduce/UserBehaviorReducer.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/mapreduce/UserBehaviorMapper.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/mapreduce/ProductAnalysisReducer.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/mapreduce/UserProfileReducer.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/JobChainManager.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/model/UserAction.java
+/home/hadoop/lab05/src/main/java/com/hadoop/lab05/model/UserProfile.java

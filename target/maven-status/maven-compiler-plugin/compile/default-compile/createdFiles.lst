@@ -1,0 +1,10 @@
+com/hadoop/lab05/mapreduce/ProductAnalysisReducer.class
+com/hadoop/lab05/mapreduce/UserBehaviorMapper.class
+com/hadoop/lab05/JobChainManager.class
+com/hadoop/lab05/mapreduce/ProductAnalysisMapper.class
+com/hadoop/lab05/mapreduce/UserProfileMapper.class
+com/hadoop/lab05/mapreduce/UserProfileReducer.class
+com/hadoop/lab05/JDataAnalysisDriver.class
+com/hadoop/lab05/model/UserProfile.class
+com/hadoop/lab05/model/UserAction.class
+com/hadoop/lab05/mapreduce/UserBehaviorReducer.class
